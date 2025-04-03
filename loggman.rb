@@ -4,8 +4,8 @@
 class Loggman < Formula
   desc "log tool"
   homepage "https://github.com/kk0000-kk/loggman"
-  url "https://github.com/kk0000-kk/loggman/releases/download/v0.0.2/loggman"
-  sha256 "84355aaf95ce8436b1748ea80274130021b2de2553a3d6a12301bcd68ff3a70a"
+  url "https://github.com/kk0000-kk/loggman/releases/download/v0.0.3/loggman"
+  sha256 "004b2df785a8446ea72f00805727654fc54938b443faad81f797a4a122744e3d"
   license "BSD-3-Clause"
 
   def install
